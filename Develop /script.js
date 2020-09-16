@@ -5,7 +5,7 @@ events.forEach(function(){
     if (currentDay < moment.js){
         this.style.color = ".past"
     }
-    if (currentDay > moment.js){
+   else if (currentDay > moment.js){
         this.style.color = ".future"
     }
     else {
