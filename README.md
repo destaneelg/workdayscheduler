@@ -2,7 +2,7 @@
 ## User Story
 
 ```
-As a bus employee, I need a scheduler to log all of my activities in a work day, that  is color coded showing when things should be complete
+As a bus employee, I need a scheduler to log all of my activities in a work day, that  is color coded showing when things should be complete.
 ```
 
 ##Website Functionality
