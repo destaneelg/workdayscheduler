@@ -2,16 +2,16 @@
 ## User Story
 
 ```
-As a bus employee, I need a scheduler to log all of my activities in a work day, that  is color coded showing when things should be complete.
+As a busy employee, I need a scheduler to log all of my activities in a work day, that is color coded showing when things should be complete.
 ```
 
 ##Website Functionality
 
 ```
 GIVEN I am on the application
-WHEN I enter  a event 
+WHEN I enter a event 
 THEN It stays until it is  removed
-WHEN When the  time for an event has passed
+WHEN When the time for an event has passed
 THEN That event will turn red
 WHEN The time for the event lines up with the current time
 THEN The event will be grey
