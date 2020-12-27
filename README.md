@@ -9,24 +9,28 @@ As a busy employee, I need a scheduler to log all of my activities in a work day
 
 ```
 GIVEN I am on the application
-WHEN I enter a event 
-THEN It stays until it is  removed
-WHEN When the time for an event has passed
+WHEN the time for an event has passed
 THEN That event will turn red
 WHEN The time for the event lines up with the current time
-THEN The event will be grey
+THEN The event will be grey. 
+WHEN an event is in the future
+THEN the timeblock will appear green
 
 ```
 The following screenshot demonstrates the application functionality : assets/workdayscheduler.png
 
 ## Obstacles faced during development
 ```
-API is not pulling data causing application to be static. 
+I had issues keeping the text area white with the color changing time blocks, and pulling from local storage.
 ```
 ## Instructions for future development
 ```
-Would like  to return to this assignment and complete with a better knowledge of API's. 
+I would like to redo this with Scheduler.js to see what functionality would change and get the local storage component working.
 ```
 ## Review
 * The URL of the deployed application.
 
+ https://destaneelg.github.io/workdayscheduler/
+
+ * The URL of the GitHub Repository: 
+ https://github.com/destaneelg/workdayscheduler

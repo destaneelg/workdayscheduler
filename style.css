@@ -43,11 +43,11 @@ textarea{
 }
 
 .past {
-  background-color: grey;
+  background-color: red;
 }
 
 .present {
-  background-color: red;
+  background-color: grey;
 }
 
 .future {
