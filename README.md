@@ -17,7 +17,7 @@ WHEN an event is in the future
 THEN the timeblock will appear green
 
 ```
-The following screenshot demonstrates the application functionality : assets/workdayscheduler.png
+The following screenshot demonstrates the application functionality : workday.png
 
 ## Obstacles faced during development
 ```
